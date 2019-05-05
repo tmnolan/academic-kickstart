@@ -7,6 +7,10 @@ abstract = "Plants encounter a variety of stresses and must fine-tune their grow
 featured = true
 publication = "*Dev. Cell*"
 tags = ["brassinosteroid; drought response; growth and stress responses; kinases; selective autophagy; signal transduction; transcription factors; ubiquitin receptor"]
+url_pdf = "nolan-2017-fh.pdf"
+
+links = [{icon_pack="fab", icon="medium", name="GEO", url="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE93420"}]
+
 
 +++
 

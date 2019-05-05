@@ -23,9 +23,9 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
+  "Brassinosteroid Signaling",
   "Plant Phenomics",
-  "Systems Biology",
-  "Transcriptional Regulation"
+  "Systems Biology"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -49,9 +49,9 @@ user_groups = ["Researchers", "Visitors"]
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 [[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "mailto:tmnolan@iastate.edu"  # For a direct email link, use "mailto:test@example.org".
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=-Viu0JMAAAAJ"
 
 [[social]]
   icon = "twitter"
@@ -59,21 +59,23 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://twitter.com/TNPlantBio"
 
 [[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.com/citations?user=-Viu0JMAAAAJ"
-
-[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/tmnolan"
+  
+   [[social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "files/cv.pdf"
+  
+  [[social]]
+  icon = "envelope"
+  icon_pack = "fas"
+  link = "mailto:tmnolan@iastate.edu"  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+
 
 +++
 
