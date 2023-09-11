@@ -1,10 +1,13 @@
-+++
-title = "Impaired Chloroplast Biogenesis in Immutans, an Arabidopsis Variegation Mutant, Modifies Developmental Programming, Cell Wall Composition and Resistance to Pseudomonas syringae"
-date = 2016-04-01
-authors = ["Gennady V Pogorelko", "Sekhar Kambakam", "Trevor Nolan", "Andrew Foudree", "Olga A Zabotina", "Steven R Rodermel"]
-publication_types = ["2"]
-abstract = "The immutans (im) variegation mutation of Arabidopsis has green- and white- sectored leaves due to action of a nuclear recessive gene. IM codes for PTOX, a plastoquinol oxidase in plastid membranes. Previous studies have revealed that the green and white sectors develop into sources (green tissues) and sinks (white tissues) early in leaf development. In this report we focus on white sectors, and show that their transformation into effective sinks involves a sharp reduction in plastid number and size. Despite these reductions, cells in the white sectors have near-normal amounts of plastid RNA and protein, and surprisingly, a marked amplification of chloroplast DNA. The maintenance of protein synthesis capacity in the white sectors might poise plastids for their development into other plastid types. The green and white im sectors have different cell wall compositions: whereas cell walls in the green sectors resemble those in wild type, cell walls in the white sectors have reduced lignin and cellulose microfibrils, as well as alterations in galactomannans and the decoration of xyloglucan. These changes promote susceptibility to the pathogen Pseudomonas syringae. Enhanced susceptibility can also be explained by repressed expression of some, but not all, defense genes. We suggest that differences in morphology, physiology and biochemistry between the green and white sectors is caused by a reprogramming of leaf development that is coordinated, in part, by mechanisms of retrograde (plastid-to-nucleus) signaling, perhaps mediated by ROS. We conclude that variegation mutants offer a novel system to study leaf developmental programming, cell wall metabolism and host-pathogen interactions."
-featured = false
-publication = "*PLoS One*"
-+++
+---
+title: "Impaired Chloroplast Biogenesis in Immutans, an Arabidopsis Variegation Mutant, Modifies Developmental Programming, Cell Wall Composition and Resistance to Pseudomonas syringae"
+date: 2016-04-01
+publishDate: 2023-09-11T15:03:42.456136Z
+authors: ["Gennady V Pogorelko", "Sekhar Kambakam", "Trevor Nolan", "Andrew Foudree", "Olga A Zabotina", "Steven R Rodermel"]
+publication_types: ["2"]
+abstract: "The immutans (im) variegation mutation of Arabidopsis has green- and white- sectored leaves due to action of a nuclear recessive gene. IM codes for PTOX, a plastoquinol oxidase in plastid membranes. Previous studies have revealed that the green and white sectors develop into sources (green tissues) and sinks (white tissues) early in leaf development. In this report we focus on white sectors, and show that their transformation into effective sinks involves a sharp reduction in plastid number and size. Despite these reductions, cells in the white sectors have near-normal amounts of plastid RNA and protein, and surprisingly, a marked amplification of chloroplast DNA. The maintenance of protein synthesis capacity in the white sectors might poise plastids for their development into other plastid types. The green and white im sectors have different cell wall compositions: whereas cell walls in the green sectors resemble those in wild type, cell walls in the white sectors have reduced lignin and cellulose microfibrils, as well as alterations in galactomannans and the decoration of xyloglucan. These changes promote susceptibility to the pathogen Pseudomonas syringae. Enhanced susceptibility can also be explained by repressed expression of some, but not all, defense genes. We suggest that differences in morphology, physiology and biochemistry between the green and white sectors is caused by a reprogramming of leaf development that is coordinated, in part, by mechanisms of retrograde (plastid-to-nucleus) signaling, perhaps mediated by ROS. We conclude that variegation mutants offer a novel system to study leaf developmental programming, cell wall metabolism and host-pathogen interactions."
+featured: false
+publication: "*PLoS One*"
+url_pdf: "http://dx.doi.org/10.1371/journal.pone.0150983"
+doi: "10.1371/journal.pone.0150983"
+---
 
